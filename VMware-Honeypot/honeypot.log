@@ -1,0 +1,78 @@
+2025-04-21 17:46:42,234 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.100:5000
+2025-04-21 17:46:42,234 - [33mPress CTRL+C to quit[0m
+2025-04-21 17:46:42,236 -  * Restarting with stat
+2025-04-21 17:46:42,475 -  * Debugger is active!
+2025-04-21 17:46:42,480 -  * Debugger PIN: 562-385-588
+2025-04-21 17:48:06,736 - 127.0.0.1 - - [21/Apr/2025 17:48:06] "[32mGET / HTTP/1.1[0m" 302 -
+2025-04-21 17:48:06,762 - Attempt Detected: {'timestamp': '2025-04-21 10:48:06', 'endpoint': '/ui/', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-21 17:48:07,199 - 127.0.0.1 - - [21/Apr/2025 17:48:07] "GET /ui/ HTTP/1.1" 200 -
+2025-04-21 17:48:07,834 - 127.0.0.1 - - [21/Apr/2025 17:48:07] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-21 17:48:08,036 - 127.0.0.1 - - [21/Apr/2025 17:48:08] "GET /static/images/Mark-Foley.gif HTTP/1.1" 200 -
+2025-04-21 17:48:08,077 - 127.0.0.1 - - [21/Apr/2025 17:48:08] "GET /static/images/vmware-logo.png HTTP/1.1" 200 -
+2025-04-21 17:48:08,281 - 127.0.0.1 - - [21/Apr/2025 17:48:08] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-21 17:48:09,745 - Attempt Detected: {'timestamp': '2025-04-21 10:48:09', 'endpoint': '404_error', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-21 17:48:09,746 - 127.0.0.1 - - [21/Apr/2025 17:48:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 17:48:36,010 - Attempt Detected: {'timestamp': '2025-04-21 10:48:36', 'endpoint': '404_error', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-21 17:48:36,010 - 127.0.0.1 - - [21/Apr/2025 17:48:36] "[33mPOST /vsphere-client/ HTTP/1.1[0m" 404 -
+2025-04-24 21:35:43,338 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.100:5000
+2025-04-24 21:35:43,338 - [33mPress CTRL+C to quit[0m
+2025-04-24 21:35:43,340 -  * Restarting with stat
+2025-04-24 21:35:43,642 -  * Debugger is active!
+2025-04-24 21:35:43,648 -  * Debugger PIN: 985-214-902
+2025-04-24 21:37:04,744 - 127.0.0.1 - - [24/Apr/2025 21:37:04] "[32mGET / HTTP/1.1[0m" 302 -
+2025-04-24 21:37:04,790 - Attempt Detected: {'timestamp': '2025-04-24 14:37:04', 'endpoint': '/ui/', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-24 21:37:04,813 - 127.0.0.1 - - [24/Apr/2025 21:37:04] "GET /ui/ HTTP/1.1" 200 -
+2025-04-24 21:37:05,219 - 127.0.0.1 - - [24/Apr/2025 21:37:05] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-24 21:37:05,598 - 127.0.0.1 - - [24/Apr/2025 21:37:05] "GET /static/images/Mark-Foley.gif HTTP/1.1" 200 -
+2025-04-24 21:37:05,614 - 127.0.0.1 - - [24/Apr/2025 21:37:05] "GET /static/images/vmware-logo.png HTTP/1.1" 200 -
+2025-04-24 21:37:05,620 - 127.0.0.1 - - [24/Apr/2025 21:37:05] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-24 21:37:05,684 - Attempt Detected: {'timestamp': '2025-04-24 14:37:05', 'endpoint': '404_error', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-24 21:37:05,684 - 127.0.0.1 - - [24/Apr/2025 21:37:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-24 21:37:17,667 - Attempt Detected: {'timestamp': '2025-04-24 14:37:17', 'endpoint': '404_error', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-24 21:37:17,668 - 127.0.0.1 - - [24/Apr/2025 21:37:17] "[33mPOST /vsphere-client/ HTTP/1.1[0m" 404 -
+2025-04-24 21:57:26,395 - Attempt Detected: {'timestamp': '2025-04-24 14:57:26', 'endpoint': '404_error', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-24 21:57:26,400 - 127.0.0.1 - - [24/Apr/2025 21:57:26] "[33mPOST /vsphere-client/ HTTP/1.1[0m" 404 -
+2025-04-24 23:33:31,843 -  * Detected change in 'D:\\HCMUNRE\\4Year\\Semester2\\BMM\\VMware-Honeypot\\honeypot_analysis.py', reloading
+2025-04-24 23:33:32,656 -  * Restarting with stat
+2025-04-24 23:33:38,814 -  * Debugger is active!
+2025-04-24 23:33:38,862 -  * Debugger PIN: 985-214-902
+2025-04-24 23:51:20,729 - Attempt Detected: {'timestamp': '2025-04-24 16:51:20', 'endpoint': '/ui/', 'method': 'GET', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-24 23:51:21,678 - Attempt Detected: {'timestamp': '2025-04-24 16:51:21', 'endpoint': '/favicon.ico', 'method': 'GET', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-24 23:51:30,355 - Attempt Detected: {'timestamp': '2025-04-24 16:51:30', 'endpoint': '/vsphere-client/', 'method': 'POST', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-24 23:52:57,015 - Attempt Detected: {'timestamp': '2025-04-24 16:52:57', 'endpoint': '/ui/', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-24 23:52:57,217 - Attempt Detected: {'timestamp': '2025-04-24 16:52:57', 'endpoint': '/favicon.ico', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-24 23:53:04,223 - Attempt Detected: {'timestamp': '2025-04-24 16:53:04', 'endpoint': '/ui/', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-24 23:53:10,340 - Attempt Detected: {'timestamp': '2025-04-24 16:53:10', 'endpoint': '/vsphere-client/', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': None}
+2025-04-25 00:10:18,163 - Attempt Detected: {'timestamp': '2025-04-24 17:10:18', 'endpoint': '/ui/', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 00:10:27,223 - Attempt Detected: {'timestamp': '2025-04-24 17:10:27', 'endpoint': '/vsphere-client/', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 00:10:28,628 - Attempt Detected: {'timestamp': '2025-04-24 17:10:28', 'endpoint': '/vsphere-client/', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 00:10:38,241 - Attempt Detected: {'timestamp': '2025-04-24 17:10:38', 'endpoint': '/ui/', 'method': 'GET', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 00:10:50,620 - Attempt Detected: {'timestamp': '2025-04-24 17:10:50', 'endpoint': '/vsphere-client/', 'method': 'POST', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 00:20:52,550 - Attempt Detected: {'timestamp': '2025-04-24 17:20:52', 'endpoint': '/ui/', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 00:20:58,489 - Attempt Detected: {'timestamp': '2025-04-24 17:20:58', 'endpoint': '/vsphere-client/', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 00:27:44,616 - Attempt Detected: {'timestamp': '2025-04-24 17:27:44', 'endpoint': '/ui/', 'method': 'GET', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 00:27:49,163 - Attempt Detected: {'timestamp': '2025-04-24 17:27:49', 'endpoint': '/ui/', 'method': 'POST', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': {'username': 'hongphan', 'password': '4566'}}
+2025-04-25 00:29:42,575 - Attempt Detected: {'timestamp': '2025-04-24 17:29:42', 'endpoint': '/ui/', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 00:32:28,232 - Attempt Detected: {'timestamp': '2025-04-24 17:32:28', 'endpoint': '/vsphere-client/', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 08:04:08,585 - Attempt Detected: {'timestamp': '2025-04-25 01:04:08', 'endpoint': '/ui/', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 08:04:08,846 - Attempt Detected: {'timestamp': '2025-04-25 01:04:08', 'endpoint': '/favicon.ico', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 08:04:17,667 - Attempt Detected: {'timestamp': '2025-04-25 01:04:17', 'endpoint': '/ui/', 'method': 'GET', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 08:04:17,800 - Attempt Detected: {'timestamp': '2025-04-25 01:04:17', 'endpoint': '/favicon.ico', 'method': 'GET', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 08:07:48,788 - Attempt Detected: {'timestamp': '2025-04-25 01:07:48', 'endpoint': '/ui/', 'method': 'GET', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 08:07:54,095 - Attempt Detected: {'timestamp': '2025-04-25 01:07:54', 'endpoint': '/ui/', 'method': 'POST', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': {'username': 'hongphan', 'password': '123'}}
+2025-04-25 08:11:48,143 - Attempt Detected: {'timestamp': '2025-04-25 01:11:48', 'endpoint': '/ui/', 'method': 'POST', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': {'username': 'myle', 'password': 'myle123'}}
+2025-04-25 08:11:49,830 - Attempt Detected: {'timestamp': '2025-04-25 01:11:49', 'endpoint': '/ui/', 'method': 'POST', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': {'username': 'myle', 'password': 'myle123'}}
+2025-04-25 08:11:51,270 - Attempt Detected: {'timestamp': '2025-04-25 01:11:51', 'endpoint': '/ui/', 'method': 'POST', 'ip': '10.0.0.100', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': {'username': 'myle', 'password': 'myle123'}}
+2025-04-25 08:21:11,137 - Attempt Detected: {'timestamp': '2025-04-25 01:21:11', 'endpoint': '/ui/', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': {'username': 'Khoa', 'password': 'khoa'}}
+2025-04-25 08:21:43,990 - Attempt Detected: {'timestamp': '2025-04-25 01:21:43', 'endpoint': '/ui/', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': {'username': 'Han', 'password': 'HAn123'}}
+2025-04-25 08:27:38,894 - Attempt Detected: {'timestamp': '2025-04-25 01:27:38', 'endpoint': '/ui/', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': {'username': 'Khoa', 'password': 'khoa'}}
+2025-04-25 13:12:21,201 - Attempt Detected: {'timestamp': '2025-04-25 06:12:21', 'endpoint': '/ui/', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 13:12:22,556 - Attempt Detected: {'timestamp': '2025-04-25 06:12:22', 'endpoint': '/favicon.ico', 'method': 'GET', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'}
+2025-04-25 13:12:35,421 - Attempt Detected: {'timestamp': '2025-04-25 06:12:35', 'endpoint': '/ui/', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': {'username': 'lan', 'password': 'lan'}}
+2025-04-25 13:19:16,936 - Attempt Detected: {'timestamp': '2025-04-25 06:19:16', 'endpoint': '/ui/', 'method': 'POST', 'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'data': {'username': 'lan', 'password': 'lan'}}

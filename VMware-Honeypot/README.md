@@ -1,5 +1,5 @@
 🌐 VMware Honeypot (Python Flask) 🚀
-** An ninh mạng - Blue Team - Honeypot cho VMware (tại chỗ)**
+** Bảo mật mạng máy tính và hệ thống**
 
 🌟 Tính năng:
 Giao diện thực tế: Lấy cảm hứng từ vSphere Web Client, honeypot của chúng tôi cung cấp một môi trường cơ bản nhưng thuyết phục cho những kẻ tấn công tiềm năng.
